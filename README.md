@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img width="1919" height="1079" alt="Screenshot 2026-01-02 155215" src="https://github.com/user-attachments/assets/e8ecb64f-4472-4d96-bcf6-bb80dfa3b5e8" />
+
 
 
 **A modern, real-time coding interview platform built for seamless technical assessments**
