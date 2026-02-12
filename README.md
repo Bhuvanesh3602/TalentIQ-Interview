@@ -285,7 +285,7 @@ We welcome contributions! Please follow these steps:
 - **Clerk** for seamless authentication solutions
 - **Piston API** for secure code execution environment
 - **MongoDB** for reliable data storage
-- **Vercel** for hosting and deployment solutions
+- **Vercel** for hosting and deployment solutions.
 
 ---
 
