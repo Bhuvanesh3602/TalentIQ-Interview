@@ -281,10 +281,10 @@ We welcome contributions! Please follow these steps:
 ---
 ## 🙏 **Acknowledgments**
 
-- **Stream.io** for providing excellent video and chat infrastructure
-- **Clerk** for seamless authentication solutions
-- **Piston API** for secure code execution environment
-- **MongoDB** for reliable data storage
+- **Stream.io** for providing excellent video and chat infrastructure.
+- **Clerk** for seamless authentication solutions.
+- **Piston API** for secure code execution environment.
+- **MongoDB** for reliable data storage.
 - **Vercel** for hosting and deployment solutions.
 
 ---
