@@ -1,3 +1,5 @@
+<img width="1656" height="1002" alt="image" src="https://github.com/user-attachments/assets/c9766a48-fbd4-4265-b247-d5b1d2a4d323" />
+
 # 🚀 TalentIQ - Full-Stack Interview Platform
 
 <div align="center">
